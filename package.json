@@ -1,5 +1,5 @@
 {
-  "name": "rollup-plugin-commonjs",
+  "name": "@nhz.io/rollup-plugin-commonjs",
   "version": "4.1.0",
   "description": "Convert CommonJS modules to ES2015",
   "main": "dist/rollup-plugin-commonjs.cjs.js",
